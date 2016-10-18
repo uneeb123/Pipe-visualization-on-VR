@@ -1,9 +1,11 @@
-# Pipe-visualization-on-VR
+# Pipe visualization on VR
 Simple Gear VR application made on Unity that creates random pipes, joins them together and makes the player run through those pipes. The app was made using help from catlikecoding.com. 
 
 # Dependencies
 Unity 5.4.1f1
+
 Oculus Mobile SDK 1.0.3
+
 Oculus Utilities for Unity 5 1.8.0
 
 # Running
